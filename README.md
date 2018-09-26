@@ -1,6 +1,6 @@
 # TalkSuggestions
 
-Talk ideas welcome (also if you want to hear about a topic). Just create an issue and describe the talk you would like to hold - or the topic you would like to learn more about.
+Talk ideas welcome (also if you want to hear about a topic). Just create an issue and describe the talk you would like to hold — or the topic you would like to learn more about.
 
 * a talk should be anywhere **between 10 and 60 minutes** long
 * it will be presented to a mixed group of **beginners and experienced Ruby developers**
@@ -18,14 +18,14 @@ While talks usually work best, you could also organize a coding exercise. Please
 
 ## Where and when
 
-Our Ruby user group is called _Barcelona on Rails_ and is meeting **every 3rd Thursday of a month**. While we usually meet at XING's office, but exceptions do happen. So check our official channels for the latest information: 
+Our Ruby user group is called _Barcelona on Rails_ and meets **every 3rd Thursday of a month**. While we usually meet at XING's office, exceptions do happen. So check our official channels for the latest information: 
 
 * **Meetup:** https://www.meetup.com/Barcelona-on-Rails/
 * **Twitter:** https://twitter.com/bcnrails
 
 ## Language
 
-Usually our presentations are in English. If you would feel more comfortable to do a presentation in Spanish, please let us know! We might then try to organize a meetup which has your talk in Spanish and another talk in English - as we will always have some participants that don't understand Spanish good enough.
+Usually our presentations are in English. If you would feel more comfortable doing a presentation in Spanish, please let us know! We might then try to organize a meetup which has your talk in Spanish and another talk in English — as we will always have some participants that don't understand Spanish well enough.
 
 ## No better time than now
 
